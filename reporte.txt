@@ -1,0 +1,14 @@
+REPORTE DE LIMPIEZA DE DATOS — GASTOS PYME
+=============================================
+Filas originales:              434
+Filas vacías eliminadas:       2
+Duplicados eliminados:         9
+Filas finales:                 423
+---------------------------------------------
+Categorías no reconocidas:     0
+Fechas no interpretables:      0
+Montos no interpretables:      0
+Montos negativos (reembolsos): 4
+Outliers de monto detectados:  9
+Gastos sin N° de factura:      48
+=============================================

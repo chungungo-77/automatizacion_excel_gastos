@@ -1,0 +1,28 @@
+{
+  "categorias": {
+    "marketing": "Marketing",
+    "mkt": "Marketing",
+    "servicios basicos": "Servicios Básicos",
+    "serv basicos": "Servicios Básicos",
+    "oficina": "Oficina",
+    "ofician": "Oficina",
+    "transporte": "Transporte",
+    "transp": "Transporte",
+    "arriendo": "Arriendo",
+    "software": "Software",
+    "softwate": "Software",
+    "sw": "Software",
+    "capacitacion": "Capacitación",
+    "legal": "Legal",
+    "otros": "Otros",
+    "otro": "Otros"
+  },
+  "metodos_pago": {
+    "tarjeta": "Tarjeta",
+    "tc": "Tarjeta",
+    "debito": "Tarjeta",
+    "transferencia": "Transferencia",
+    "transferencia bancaria": "Transferencia",
+    "efectivo": "Efectivo"
+  }
+}
