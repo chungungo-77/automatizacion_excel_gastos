@@ -91,4 +91,4 @@ Python · pandas · numpy · openpyxl · Streamlit · Plotly · pytest
 
 ## 👩‍💻 Autora
 
-Camila Ojeda — Técnico en Informática y Data Science
+Camila Ojeda — Técnica en Informática y Data Science
