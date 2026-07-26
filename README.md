@@ -53,6 +53,8 @@ streamlit run app.py
 
 Para ver el panel de revisión de errores en acción, usa `ejemplos/gastos_pyme_demo_con_errores.xlsx` — incluye filas con errores intencionales que el catálogo original no cubre.
 
+Puedes ver la demo de la aplicación a través de este link: https://automatizacionexcelgastos-jg3k4wjwydnav6keuknf2c.streamlit.app/
+
 ## ✅ Tests
 
 El pipeline tiene una suite de tests con `pytest` que cubre: formatos mixtos de fecha y monto, categorías/métodos de pago dentro y fuera del catálogo, persistencia del catálogo editable, y el panel de revisión de errores/outliers.
