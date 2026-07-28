@@ -53,7 +53,7 @@ streamlit run app.py
 
 Para ver el panel de revisión de errores en acción, usa `ejemplos/gastos_pyme_demo_con_errores.xlsx` — incluye filas con errores intencionales que el catálogo original no cubre.
 
-Puedes ver la demo de la aplicación a través de este link: https://automatizacionexcelgastos-jg3k4wjwydnav6keuknf2c.streamlit.app/
+Puedes ver la demo de la aplicación a través de este link: https://automatizacionexcelgastos-bqsfap7q8rz5yffe9qrgtf.streamlit.app/
 
 ## ✅ Tests
 
